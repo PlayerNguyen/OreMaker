@@ -1,0 +1,7 @@
+name: OreMaker
+version: '${version}'
+main: com.github.playernguyen.oremaker.OreMaker
+api-version: 1.19
+authors: [ Player_Nguyen ]
+description: A lite ore generator plugin
+website: https://github.com/PlayerNguyen
